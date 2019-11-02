@@ -39,6 +39,5 @@ public class TestAuto {
 			tableau[i].afficher();
 			System.out.println();
 		}
-		
 	}
 }
